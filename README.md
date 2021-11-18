@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Darkbeast-glitch
-- 👀 I’m interested in Programming and Biomedical Engineering,
-- 🌱 I’m currently learning  React,Ionic,Reactnative
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Darkbeast-glitch, you can call me Julius
+- 👀 I’m interested in Programming and Biomedical Engineering,health,IT & Gaming
+- 🌱 I’m currently learning  React,Ionic,Reactnative,(Other courses
+- 💞️ I’m looking to collaborate on any software i found interesting 
 - 📫 How to reach me IG:julius20215 Twitter:anonafriq4
 
 <!---
