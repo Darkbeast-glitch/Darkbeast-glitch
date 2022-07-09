@@ -1,4 +1,7 @@
 [![MasterHead](https://imgur.com/gallery/WhQxMzJ)](https://github.com/Darkbeast-glitch)
+
+  <img align="right" alt="Coding" width="400" src="https://imgur.com/gallery/WhQxMzJ">
+  
 - 👋 Hi, I’m @Darkbeast-glitch, you can call me Julius
 - 👀 I’m interested in Programming and Biomedical Engineering,health,IT & Gaming
 - 🌱 I’m currently learning  React,Ionic,Reactnative,(Other courses
