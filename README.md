@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darkbeast-glitch&repo=github-MerchPerchBlog)](https://github.com/Darkbeast-glitch/github-MerchPerchBlog)
  -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Darkbeast-glitch)](https://github.com/ryo-ma/github-profile-trophy)
