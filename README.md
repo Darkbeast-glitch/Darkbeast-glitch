@@ -1,6 +1,6 @@
 [![MasterHead](https://imgur.com/gallery/WhQxMzJ)](https://github.com/Darkbeast-glitch)
 
-  <img align="right" alt="Coding" width="400" src="https://imgur.com/gallery/WhQxMzJ">
+  <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.R3MhcXCAuZ5Pozxpi8olPQHaEK%26pid%3DApi&f=1">
   
 - 👋 Hi, I’m @Darkbeast-glitch, you can call me Julius
 - 👀 I’m interested in Programming and Biomedical Engineering,health,IT & Gaming
