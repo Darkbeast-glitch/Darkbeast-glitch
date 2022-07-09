@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkbeast-glitch&show_icons=true&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darkbeast-glitch&repo=github-MerchPerchBlog)](https://github.com/Darkbeast-glitch/github-MerchPerchBlog)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darkbeast-glitch&repo=github-MerchPerchBlog)](https://github.com/Darkbeast-glitch/github-MerchPerchBlog)
+ -->
