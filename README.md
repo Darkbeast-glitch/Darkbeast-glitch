@@ -16,6 +16,10 @@ Darkbeast-glitch/Darkbeast-glitch is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
+<a href="https://app.daily.dev/flyboyofficial"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ldf" width="400" alt="Julius Boakye's Dev Card"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkbeast-glitch&show_icons=true&theme=radical)
 
 
