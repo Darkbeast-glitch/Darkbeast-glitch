@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **Bachelor's in Computer Science **.
+      🎓 I am currently pursuing my **Bachelor's in Computer Science **.<br/>
       🌱 I am currently learning **GOlang** and also profcienct in **python-django, *API Develoment, backend development and mobile development*.
       🎯 My Goal is to Contribute to as many **open source project** as many possible.
       ✨ I love to create different types of **contents**.
