@@ -7,15 +7,27 @@
 
 <!--   <img align="right" alt="Julius" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.R3MhcXCAuZ5Pozxpi8olPQHaEK%26pid%3DApi&f=1"> -->
   
-- 👋 Hi, I’m @Darkbeast-glitch, you can call me Julius
-- 👀 I’m interested in Programming, Coding, Listening to Music
-- 🌱 I’m currently learning flutter, Go lang,buh my experience is in python 
-- 💞️ I’m looking to collaborate on any software i found interesting 
-- 📫 How to reach me IG:julius20215 Twitter:JuliusBoakye8
-- I am also a full stack developer
--I have some experience in django
--I also have experience in other languages Python,JS,CSS,MySQL etc.
 
+
+
+<table>
+  <tr>
+    <td valign="center">
+      - 👋 Hi, I’m @Darkbeast-glitch, you can call me Julius
+      - 👀 I’m interested in Programming, Coding, Listening to Music
+      - 🌱 I’m currently learning flutter, Go lang,buh my experience is in python 
+      - 💞️ I’m looking to collaborate on any software i found interesting 
+      - 📫 How to reach me IG:julius20215 Twitter:JuliusBoakye8
+      - I am also a full stack developer
+      -I have some experience in django
+      -I also have experience in other languages Python,JS,CSS,MySQL etc.
+    <td >
+# this is my daily.dev card, you can edit this accordingly
+    <a href="https://app.daily.dev/flyboyofficial"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ldf" width="400" alt="Julius Boakye's Dev Card"/></a>
+    </td>
+    
+  </tr>
+  </table>
 <!---
 Darkbeast-glitch/Darkbeast-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -23,7 +35,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://app.daily.dev/flyboyofficial"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ldf" width="400" alt="Julius Boakye's Dev Card"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkbeast-glitch&show_icons=true&theme=radical)
 
