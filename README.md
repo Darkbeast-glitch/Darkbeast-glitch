@@ -5,6 +5,18 @@
 
 [![MasterHead](https://i.imgur.com/LnKaN7i.png)](https://github.com/Darkbeast-glitch)
 
+
+## 🚀 About Me
+I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science. I'm passionate about programming, coding, and music. I'm proficient in Python, JS, CSS, MySQL, and more. I'm currently learning Golang and Flutter, and I have experience in Django. I love creating different types of content and contributing to open-source projects.
+
+## 🛠 Skills
+- Python, JS, CSS, MySQL
+- Django
+- API Development
+- Backend Development
+- Mobile Development
+
+
 <!--   <img align="right" alt="Julius" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.R3MhcXCAuZ5Pozxpi8olPQHaEK%26pid%3DApi&f=1"> 
     - 👋 Hi, I’m @Darkbeast-glitch, you can call me Julius
       - 👀 I’m interested in Programming, Coding, Listening to Music
