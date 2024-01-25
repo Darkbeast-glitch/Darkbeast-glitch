@@ -16,7 +16,6 @@
       -I also have experience in other languages Python,JS,CSS,MySQL etc.
 
 
-# replace contents according to you.
 <table>
   <tr>
     <td valign="center">
