@@ -49,6 +49,21 @@ I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science
 - Mobile Development
 
 
+## 🎯 Goals
+My goal is to contribute to as many open-source projects as possible and collaborate on any software I find interesting.
+
+## 📫 How to reach me
+- Instagram: julius20215
+- Twitter: JuliusBoakye8
+
+## 📊 My GitHub Stats
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkbeast-glitch&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Darkbeast-glitch" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Darkbeast-glitch&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Darkbeast-glitch" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkbeast-glitch&theme=highcontrast&hide_border=true" alt="#Darkbeast-glitch" />
+</p>
+
 <!---
 Darkbeast-glitch/Darkbeast-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
