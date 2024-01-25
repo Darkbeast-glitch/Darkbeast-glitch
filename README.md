@@ -62,7 +62,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darkbeast-glitch)](https://git.io/streak-stats)<br>
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
