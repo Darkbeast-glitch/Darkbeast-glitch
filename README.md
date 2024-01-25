@@ -6,14 +6,7 @@
 [![MasterHead](https://i.imgur.com/LnKaN7i.png)](https://github.com/Darkbeast-glitch)
 
 <!--   <img align="right" alt="Julius" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.R3MhcXCAuZ5Pozxpi8olPQHaEK%26pid%3DApi&f=1"> -->
-  
-
-
-
-<table>
-  <tr>
-    <td valign="center">
-      - 👋 Hi, I’m @Darkbeast-glitch, you can call me Julius
+    - 👋 Hi, I’m @Darkbeast-glitch, you can call me Julius
       - 👀 I’m interested in Programming, Coding, Listening to Music
       - 🌱 I’m currently learning flutter, Go lang,buh my experience is in python 
       - 💞️ I’m looking to collaborate on any software i found interesting 
@@ -21,8 +14,23 @@
       - I am also a full stack developer
       -I have some experience in django
       -I also have experience in other languages Python,JS,CSS,MySQL etc.
-    <td >
-    <a href="https://app.daily.dev/flyboyofficial"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ldf" width="300" alt="Julius Boakye's Dev Card"/></a>
+
+
+# replace contents according to you.
+<table>
+  <tr>
+    <td valign="center">
+      🎓 I am currently pursuing my **Bachelor's in Computer Science **.
+      🌱 I am currently learning **GOlang** and also profcienct in **python-django, *API Develoment, backend development and mobile development*.
+      🎯 My Goal is to Contribute to as many **open source project** as many possible.
+      ✨ I love to create different types of **contents**.
+      💞️ I’m looking to collaborate on any software i found interesting 
+      I also have experience in other languages Python,JS,CSS,MySQL etc.
+      
+      📫 How to reach me IG:julius20215 Twitter:JuliusBoakye8
+<td >
+# this is my daily.dev card, you can edit this accordingly
+      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
     </td>
     
   </tr>
