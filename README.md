@@ -22,8 +22,7 @@
       -I have some experience in django
       -I also have experience in other languages Python,JS,CSS,MySQL etc.
     <td >
-# this is my daily.dev card, you can edit this accordingly
-    <a href="https://app.daily.dev/flyboyofficial"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ldf" width="400" alt="Julius Boakye's Dev Card"/></a>
+    <a href="https://app.daily.dev/flyboyofficial"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ldf" width="300" alt="Julius Boakye's Dev Card"/></a>
     </td>
     
   </tr>
