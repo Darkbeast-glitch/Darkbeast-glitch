@@ -21,16 +21,14 @@
   <tr>
     <td valign="center">
       🎓 I am currently pursuing my **Bachelor's in Computer Science **.<br/>
-      🌱 I am currently learning **GOlang** and also profcienct in **python-django, *API Develoment, backend development and mobile development*.
-      🎯 My Goal is to Contribute to as many **open source project** as many possible.
-      ✨ I love to create different types of **contents**.
-      💞️ I’m looking to collaborate on any software i found interesting 
-      I also have experience in other languages Python,JS,CSS,MySQL etc.
-      
+      🌱 I am currently learning **GOlang** and also profcienct in **python-django, *API Develoment, backend development and mobile development*.<br/>
+      🎯 My Goal is to Contribute to as many **open source project** as many possible.<br/>
+      ✨ I love to create different types of **contents**.<br/>
+      💞️ I’m looking to collaborate on any software i found interesting <br/>
+      I also have experience in other languages Python,JS,CSS,MySQL etc.<br/>
       📫 How to reach me IG:julius20215 Twitter:JuliusBoakye8
 <td >
-# this is my daily.dev card, you can edit this accordingly
-      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+     <a href="https://app.daily.dev/juliusthecoder"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ftz" width="400" alt="Julius Boakye's Dev Card"/></a>
     </td>
     
   </tr>
