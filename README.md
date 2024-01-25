@@ -54,7 +54,7 @@ My goal is to contribute to as many open-source projects as possible and collabo
 
 ## 📫 How to reach me
 - Instagram: julius20215
-- Twitter: JuliusBoakye8
+- Twitter: KayTechie
 
 ## 📊 My GitHub Stats
 
