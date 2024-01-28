@@ -26,7 +26,7 @@ I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science
   <tr>
     <td valign="center">
       🎓 I am currently pursuing my **Bachelor's in Computer Science **.<br/>
-      🌱 I am currently learning **GOlang** and also profcienct in **python-django, *API Develoment, backend development and mobile development*.<br/>
+      🌱 I am currently learning **Golang** and also profienct in **python-django, *API Develoment, backend development and mobile development*.<br/>
       🎯 My Goal is to Contribute to as many **open source project** as many possible.<br/>
       ✨ I love to create different types of **contents**.<br/>
       💞️ I’m looking to collaborate on any software i found interesting <br/>
