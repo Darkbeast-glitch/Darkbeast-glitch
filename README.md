@@ -42,11 +42,12 @@ I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science
 
 
   ## 🛠 Skills
-- Python, JS, CSS, MySQL
+- Python, JS, SQL, Golang
 - Django
 - API Development
 - Backend Development
 - Mobile Development
+- Cloud
 
 
 ## 🎯 Goals
