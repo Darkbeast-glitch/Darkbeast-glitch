@@ -39,8 +39,7 @@ I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science
     </td>
     
   </tr>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juliusboakye" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/juliusboakye?trk=profile-badge">Julius Boakye</a></div>
-              
+ 
   </table>
 
 
@@ -53,6 +52,9 @@ I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science
 - Mobile Development
 - Cloud
 
+
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juliusboakye" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/juliusboakye?trk=profile-badge">Julius Boakye</a></div>
+              
 
 ## 🎯 Goals
 My goal is to contribute to as many open-source projects as possible and collaborate on any software I find interesting.
