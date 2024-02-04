@@ -34,9 +34,13 @@ I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science
       📫 How to reach me IG:julius20215 Twitter:JuliusBoakye8
 <td >
      <a href="https://app.daily.dev/juliusthecoder"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ftz" width="400" alt="Julius Boakye's Dev Card"/></a>
+
+    
     </td>
     
   </tr>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juliusboakye" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/juliusboakye?trk=profile-badge">Julius Boakye</a></div>
+              
   </table>
 
 
