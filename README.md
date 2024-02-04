@@ -33,10 +33,9 @@ I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science
       I also have experience in other languages Python,JS,CSS,MySQL etc.<br/>
       📫 How to reach me IG:julius20215 Twitter:JuliusBoakye8
 <td >
-<a href="https://app.daily.dev/juliusthecoder"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ftz" width="400" alt="Julius Boakye's Dev Card"/></a>
+        <a href="https://app.daily.dev/juliusthecoder"><img src="https://api.daily.dev/devcards/71456c5be13b478baa04a267bad321d4.png?r=ftz" width="400" alt="Julius Boakye's Dev Card"/></a>
 
-    
-    </td>
+</td>
     
   </tr>
  
