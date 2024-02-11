@@ -64,13 +64,14 @@ My goal is to contribute to as many open-source projects as possible and collabo
 - Email : bbjuliu900@gmail
 - Phone : +233500159892
 
+<!-- 
 ## 📊 My GitHub Stats
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkbeast-glitch&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Darkbeast-glitch" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Darkbeast-glitch&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Darkbeast-glitch" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkbeast-glitch&theme=highcontrast&hide_border=true" alt="#Darkbeast-glitch" />
-</p>
+</p>-->
 
 <!---
 Darkbeast-glitch/Darkbeast-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -128,5 +129,4 @@ You can click the Preview link to take a look at your changes.
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
