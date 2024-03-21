@@ -45,7 +45,8 @@ I'm a full-stack developer, currently pursuing my Bachelor's in Computer Science
 
   ## 🛠 Skills
 - Python, JS, SQL, Golang
-- Django
+- Django, Django Rest Framework, Django Ninja,
+- FastAPI 
 - API Development
 - Backend Development
 - Mobile Development
@@ -61,7 +62,7 @@ My goal is to contribute to as many open-source projects as possible and collabo
 ## 📫 How to reach me
 - Instagram: julius20215
 - X(formally twiiter): KayTechie
-- Email : bbjuliu900@gmail
+- Email : bbjuliu900@gmail.com
 - Phone : +233500159892
 
 <!-- 
